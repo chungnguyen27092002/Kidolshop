@@ -91,7 +91,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-2">
                             <div class="header-logo">
-                                <a href="{{URL::to('/home')}}"><img src="{{asset('public/kidolshop/images/logo/logo.png')}}" alt=""></a>
+                                <a href="{{URL::to('/home')}}"><img src="{{asset('public/kidolshop/images/logo/logo1.png')}}" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-7 position-static">
@@ -133,7 +133,7 @@
                                                 </li>
                                                 <li class="mega-dropdown">
                                                     <a class="menu-banner" href="#">
-                                                        <img src="{{asset('public/kidolshop/images/banner-navbar.jpg')}}" alt="">
+                                                        <img src="{{asset('public/kidolshop/images/banner-navbar1.jpg')}}" alt="">
                                                     </a>
                                                 </li>
                                             </ul>
@@ -258,7 +258,7 @@
                 <div class="row align-items-center">
                     <div class="col-6">
                         <div class="header-logo">
-                            <a href="{{URL::to('/home')}}"><img src="{{asset('public/kidolshop/images/logo/logo.png')}}" alt=""></a>
+                            <a href="{{URL::to('/home')}}"><img src="{{asset('public/kidolshop/images/logo/logo1.png')}}" alt=""></a>
                         </div>
                     </div>
                     <div class="col-6">
@@ -462,9 +462,9 @@
                         <!--Footer Widget Start-->
                         <div class="col-lg-4 col-md-6">
                             <div class="footer-widget">
-                                <a class="footer-logo" href="#"><img src="{{asset('public/kidolshop/images/logo/logo.png')}}" alt=""></a>
+                                <a class="footer-logo" href="#"><img src="{{asset('public/kidolshop/images/logo/logo1.png')}}" alt=""></a>
                                 <div class="footer-widget-text">
-                                    <p>A perfect blend of creativity, energy, communication, happiness and love. Let us arrange a smile for you. </p>
+                                    <p>Sự kết hợp hoàn hảo giữa sáng tạo, năng lượng, giao tiếp, hạnh phúc và tình yêu. Hãy để chúng tôi sắp xếp một nụ cười cho bạn. </p>
                                 </div>
                                 <div class="widget-social">
                                     <ul>
@@ -480,15 +480,13 @@
 
                         <div class="col-lg-2 col-md-4 col-sm-6">
                             <div class="footer-widget">
-                                <h4 class="footer-widget-title">Information</h4>
+                                <h4 class="footer-widget-title">Thông tin</h4>
 
                                 <div class="footer-widget-menu">
                                     <ul>
-                                        <li><a href="#">Search Terms</a></li>
-                                        <li><a href="#">Advanced Search</a></li>
-                                        <li><a href="#">Helps & Faqs</a></li>
-                                        <li><a href="#">Store Location</a></li>
-                                        <li><a href="#">Orders & Returns</a></li>
+                                        <li><a href="#">Tìm kiếm nâng cao</a></li>
+                                        <li><a href="#">Vị trí cửa hàng</a></li>
+                                        <li><a href="#">Đơn hàng & trả lại</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -496,15 +494,13 @@
 
                         <div class="col-lg-2 col-md-4 col-sm-6">
                             <div class="footer-widget">
-                                <h4 class="footer-widget-title">My Account</h4>
+                                <h4 class="footer-widget-title">Tài khoản của tôi</h4>
 
                                 <div class="footer-widget-menu">
                                     <ul>
-                                        <li><a href="#">Delivery</a></li>
-                                        <li><a href="#">Legal Notice</a></li>
-                                        <li><a href="#">Secure payment</a></li>
-                                        <li><a href="#">Sitemap</a></li>
-                                        <li><a href="about.html">About us</a></li>
+                                        <li><a href="#">Giao hàng</a></li>
+                                        <li><a href="#">Thanh toán an toàn</a></li>
+                                        <li><a href="about.html">Về chúng tôi</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -512,15 +508,16 @@
 
                         <div class="col-lg-2 col-md-4 col-sm-6">
                             <div class="footer-widget">
-                                <h4 class="footer-widget-title">Help</h4>
+                                <h4 class="footer-widget-title">Trợ giúp</h4>
 
                                 <div class="footer-widget-menu">
                                     <ul>
-                                        <li><a href="#">FAQ’s</a></li>
-                                        <li><a href="#">Pricing Plans</a></li>
-                                        <li><a href="#">Track</a></li>
-                                        <li><a href="#">Your Order</a></li>
-                                        <li><a href="#">Returns</a></li>
+                                        <li><a href="#">Liên hệ: 0968525419</a></li>
+                                        <li><a href="#">Địa Chỉ: 75 PVD, Cầu Giấy, Hà Nội</a></li>
+                                        <li><a href="#">Gói giá</a></li>
+                                        <li><a href="#">Theo dõi</a></li>
+                                        <li><a href="#">Đơn hàng của bạn</a></li>
+                                        <li><a href="#">Trả lại</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -528,15 +525,14 @@
 
                         <div class="col-lg-2 col-md-4 col-sm-6">
                             <div class="footer-widget">
-                                <h4 class="footer-widget-title">Customer Service</h4>
+                                <h4 class="footer-widget-title">Dịch Vụ khách hàng</h4>
 
                                 <div class="footer-widget-menu">
                                     <ul>
-                                        <li><a href="{{URL::to('/account')}}">My Account</a></li>
-                                        <li><a href="#">Terms of Use</a></li>
-                                        <li><a href="#">Deliveries & Returns</a></li>
-                                        <li><a href="#">Gift card</a></li>
-                                        <li><a href="#">Legal Notice</a></li>
+                                        <li><a href="{{URL::to('/account')}}">Tài khoản của tôi</a></li>
+                                        <li><a href="#">Điều khoản sử dụng</a></li>
+                                        <li><a href="#">Thẻ quà tặng</a></li>
+                                       
                                     </ul>
                                 </div>
                             </div>

@@ -2,7 +2,7 @@
 @section('content')
 
 <!--Page Banner Start-->
-<div class="page-banner" style="background-image: url(../public/kidolshop/images/banner/banner-shop.png)">
+<div class="page-banner" style="background-image: url(../public/kidolshop/images/banner/banner-shop1.png)">
     <div class="container">
         <div class="page-banner-content text-center">
             <h2 class="title">Chi tiết sản phẩm</h2>
@@ -210,7 +210,7 @@
                                             <li class="rating-on"><i class="fa fa-star"></i></li>
                                             <li class="rating-on"><i class="fa fa-star"></i></li>
                                         </ul>
-                                        <span class="date">Oct 20, 2020</span>
+                                        <span class="date">Oct 20, 2024</span>
                                     </div>
 
                                     <p>Proin bibendum dolor vitae neque ornare, vel mollis est venenatis. Orci varius natoque penatibus et magnis dis parturient montes, nascet</p>
@@ -227,7 +227,7 @@
                                             <li class="rating-on"><i class="fa fa-star"></i></li>
                                             <li class="rating-on"><i class="fa fa-star"></i></li>
                                         </ul>
-                                        <span class="date">Oct 20, 2020</span>
+                                        <span class="date">Oct 20, 2024</span>
                                     </div>
 
                                     <p>Proin bibendum dolor vitae neque ornare, vel mollis est venenatis. Orci varius natoque penatibus et magnis dis parturient montes, nascet</p>
@@ -244,7 +244,7 @@
                                             <li class="rating-on"><i class="fa fa-star"></i></li>
                                             <li class="rating-on"><i class="fa fa-star"></i></li>
                                         </ul>
-                                        <span class="date">Oct 20, 2020</span>
+                                        <span class="date">Oct 20, 2024</span>
                                     </div>
 
                                     <p>Proin bibendum dolor vitae neque ornare, vel mollis est venenatis. Orci varius natoque penatibus et magnis dis parturient montes, nascet</p>
@@ -309,7 +309,7 @@
             <div class="col-lg-6 col-md-9 col-sm-11">
                 <div class="section-title text-center">
                     <h2 class="title">Sản Phẩm Liên Quan</h2>
-                    <p>A perfect blend of creativity, energy, communication, happiness and love. Let us arrange a smile for you.</p>
+                    <p>Sự kết hợp hoàn hảo giữa sáng tạo, năng lượng, giao tiếp, hạnh phúc và tình yêu. Hãy để chúng tôi sắp xếp một nụ cười cho bạn.</p>
                 </div>
             </div>
         </div>

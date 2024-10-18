@@ -6,21 +6,7 @@
 <div class="slider-area">
     <div class="swiper-container slider-active">
         <div class="swiper-wrapper">
-            <!--Single Slider Start-->
-            <div class="single-slider swiper-slide animation-style-01" style="background-image: url('public/kidolshop/images/slider/KIDOLBanner.png');">
-                <div class="container">
-                    <div class="slider-content">
-                        <h5 class="sub-title">Nhập: <span class="text-primary">SALE100K</span> <br> Giảm 100K cho mọi đơn hàng</h5>
-                        <h2 class="main-title">Ngày đặc biệt!</h2>
-                        <p>Nhập: <span class="text-primary">SALE10</span> để được giảm 10%, số lượng có hạn!</p>
-
-                        <ul class="slider-btn">
-                            <li><a href="{{URL::to('/store')}}" class="btn btn-round btn-primary">Bắt đầu mua sắm</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <!--Single Slider End-->
+            
 
             <!--Single Slider Start-->
             <div class="single-slider swiper-slide animation-style-01" style="background-image: url('public/kidolshop/images/slider/KIDOLBanner2.png');">
@@ -37,6 +23,38 @@
                 </div>
             </div>
             <!--Single Slider End-->
+            <!--Single Slider Start-->
+            {{-- <div class="single-slider swiper-slide animation-style-01" style="background-image: url('public/kidolshop/images/slider/KIDOLBanner.png');">
+                <div class="container">
+                    <div class="slider-content">
+                        <h5 class="sub-title">Nhập: <span class="text-primary">SALE100K</span> <br> Giảm 100K cho mọi đơn hàng</h5>
+                        <h2 class="main-title">Ngày đặc biệt!</h2>
+                        <p>Nhập: <span class="text-primary">SALE10</span> để được giảm 10%, số lượng có hạn!</p>
+
+                        <ul class="slider-btn">
+                            <li><a href="{{URL::to('/store')}}" class="btn btn-round btn-primary">Bắt đầu mua sắm</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div> --}}
+            <!--Single Slider End-->
+
+            <!--Single Slider Start-->
+            <div class="single-slider swiper-slide animation-style-01" style="background-image: url('public/kidolshop/images/slider/KIDOLBanner3.png');">
+                <div class="container">
+                    <div class="slider-content">
+                        <h5 class="sub-title">Nhập: <span class="text-primary">SALE100K</span> <br> Giảm 100K cho mọi đơn hàng</h5>
+                        <h2 class="main-title">Ngày đặc biệt!</h2>
+                        <p>Nhập: <span class="text-primary">SALE10</span> để được giảm 10%, số lượng có hạn!</p>
+
+                        <ul class="slider-btn">
+                            <li><a href="{{URL::to('/store')}}" class="btn btn-round btn-primary">Bắt đầu mua sắm</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!--Single Slider End-->
+            
         </div>
         <!--Swiper Wrapper End-->
 
@@ -115,7 +133,7 @@
             <div class="col-lg-6 col-md-9 col-sm-11">
                 <div class="section-title text-center">
                     <h2 class="title">Gợi Ý Cho Bạn</h2>
-                    <p>A perfect blend of creativity, energy, communication, happiness and love. Let us arrange a smile for you.</p>
+                    <p>Sự kết hợp hoàn hảo giữa sáng tạo, năng lượng, giao tiếp, hạnh phúc và tình yêu. Hãy để chúng tôi sắp xếp một nụ cười cho bạn.</p>
                 </div>
             </div>
         </div>
@@ -260,7 +278,7 @@
             <div class="col-lg-6 col-md-9 col-sm-11">
                 <div class="section-title text-center">
                     <h2 class="title">Sản Phẩm Mới</h2>
-                    <p>A perfect blend of creativity, energy, communication, happiness and love. Let us arrange a smile for you.</p>
+                    <p>Sự kết hợp hoàn hảo giữa sáng tạo, năng lượng, giao tiếp, hạnh phúc và tình yêu. Hãy để chúng tôi sắp xếp một nụ cười cho bạn.</p>
                 </div>
             </div>
         </div>
@@ -369,7 +387,7 @@
             <div class="col-lg-6 col-md-9 col-sm-11">
                 <div class="section-title text-center">
                     <h2 class="title">Sản Phẩm</h2>
-                    <p>A perfect blend of creativity, energy, communication, happiness and love. Let us arrange a smile for you.</p>
+                    <p>Sự kết hợp hoàn hảo giữa sáng tạo, năng lượng, giao tiếp, hạnh phúc và tình yêu. Hãy để chúng tôi sắp xếp một nụ cười cho bạn.</p>
                 </div>
             </div>
         </div>
@@ -699,7 +717,7 @@
             <div class="col-lg-6 col-md-9 col-sm-11">
                 <div class="section-title text-center">
                     <h2 class="title">Bài Viết Của Chúng Tôi</h2>
-                    <p>A perfect blend of creativity, energy, communication, happiness and love. Let us arrange a smile for you.</p>
+                    <p>Sự kết hợp hoàn hảo giữa sáng tạo, năng lượng, giao tiếp, hạnh phúc và tình yêu. Hãy để chúng tôi sắp xếp một nụ cười cho bạn.</p>
                 </div>
             </div>
         </div>

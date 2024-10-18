@@ -3,7 +3,7 @@
 
 
 <!--Page Banner Start-->
-<div class="page-banner" style="background-image: url(public/kidolshop/images/banner/banner-shop.png);">
+<div class="page-banner" style="background-image: url(public/kidolshop/images/banner/banner-shop1.png);">
     <div class="container">
         <div class="page-banner-content text-center">
             <h2 class="title">Cửa Hàng</h2>

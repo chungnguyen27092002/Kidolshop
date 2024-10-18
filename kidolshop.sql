@@ -42,7 +42,7 @@ CREATE TABLE `addresscustomer` (
 --
 
 INSERT INTO `addresscustomer` (`idAddress`, `idCustomer`, `Address`, `PhoneNumber`, `CustomerName`, `created_at`, `updated_at`) VALUES
-(4, 2, 'Bình Thủy, Cần Thơ, Tp. Cần Thơ', '0923542101', 'Nguyễn Trà My', '2022-08-06 13:31:12', '2022-08-06 13:31:12'),
+(4, 2, 'Bình Thủy, Cần Thơ, Tp. Cần Thơ', '0923542101', 'Nguyễn Chung', '2022-08-06 13:31:12', '2022-08-06 13:31:12'),
 (6, 5, '330 XXX, XXX XXXX, XXXX', '0924818410', 'Customer', '2023-08-07 10:51:25', '2023-08-07 10:51:25'),
 (7, 5, 'XXXXXXXXXXXXXXXXXXXXXXx', '03920391022', '2323123', '2023-08-07 12:29:56', '2023-08-07 12:29:56');
 
